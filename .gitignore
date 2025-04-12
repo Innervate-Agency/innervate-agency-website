@@ -1,0 +1,17 @@
+
+# Next.js build output
+/.next/
+/out/
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+# Firebase
+/.firebase/
+*.log
+# environment variables
+.env*.local
+.env
+# misc
+.DS_Store
+*.pem
